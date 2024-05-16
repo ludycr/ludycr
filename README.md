@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💚
 
-<!--
-**ludycr/ludycr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e ludmila cristia
 
-Here are some ideas to get you started:
+- Estou estudando no [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem javaScript
+- Utilizo esse espeço para organização e copartilhamento dos meus projetos desemvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você pode entrar em contato comigo 📫
+
+  00001124417436sp@al.educacao.sp.gov.br
+
+  
+![]( https://media1.tenor.com/m/e_qf8wNWSiIAAAAd/looney-tunes-looney-toons.gif)
